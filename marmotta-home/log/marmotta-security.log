@@ -1,0 +1,29 @@
+10:43:35.671 INFO  o.a.m.p.s.f.MarmottaAccessControlFilter - Access Control Filter starting up. Access control is enabled.
+10:43:35.672 INFO  o.a.m.p.s.s.SecurityServiceImpl - Initialising Security Service;  Access control is enabled.
+10:43:35.674 INFO  o.a.m.p.s.s.SecurityServiceImpl - The following security constraints have been configured:
+10:43:36.015 INFO  o.a.m.p.s.s.SecurityServiceImpl - The following security constraints have been configured:
+10:43:36.015 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint groovy: allow {POST,DELETE,GET,PUT} of /groovy/.* from 0:0:0:0:0:0:0:1/128,192.168.0.104/32,fe80:0:0:0:76de:2bff:fe77:5edd/128,127.0.0.1/32:  enabled
+10:43:36.015 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint solr_local_admin: allow {POST,DELETE,GET,PUT} of /solr/admin/.* from 192.168.0.104/32,127.0.0.1/32,0:0:0:0:0:0:0:1/128,fe80:0:0:0:76de:2bff:fe77:5edd/128:  enabled
+10:43:36.016 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint transaction: allow {POST,DELETE,GET,PUT} of /transaction/.* from 0:0:0:0:0:0:0:1/128,fe80:0:0:0:76de:2bff:fe77:5edd/128,192.168.0.104/32,127.0.0.1/32:  enabled
+10:43:36.016 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint default_local: allow {POST,DELETE,GET,OPTIONS,PUT,HEAD} of /.* from 192.168.0.104/32,127.0.0.1/32,fe80:0:0:0:76de:2bff:fe77:5edd/128,0:0:0:0:0:0:0:1/128:  enabled
+10:43:36.016 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint security: allow {POST,DELETE,GET,PUT} of /security/.* from fe80:0:0:0:76de:2bff:fe77:5edd/128,192.168.0.104/32,127.0.0.1/32,0:0:0:0:0:0:0:1/128:  enabled
+10:43:36.016 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint database: allow {POST,DELETE,GET,PUT} of /database/.* from 127.0.0.1/32,192.168.0.104/32,0:0:0:0:0:0:0:1/128,fe80:0:0:0:76de:2bff:fe77:5edd/128:  enabled
+10:43:36.016 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint reasoner_update: allow {POST,DELETE,PUT} of /reasoner/.* from 127.0.0.1/32,0:0:0:0:0:0:0:1/128,192.168.0.104/32,fe80:0:0:0:76de:2bff:fe77:5edd/128:  enabled
+10:43:36.016 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint system: allow {POST,DELETE,GET,PUT} of /system/.* from 127.0.0.1/32,0:0:0:0:0:0:0:1/128,fe80:0:0:0:76de:2bff:fe77:5edd/128,192.168.0.104/32:  enabled
+10:43:36.017 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint solr_local_update: allow {POST,GET,PUT} of /solr/.*/update from 192.168.0.104/32,0:0:0:0:0:0:0:1/128,127.0.0.1/32,fe80:0:0:0:76de:2bff:fe77:5edd/128:  enabled
+10:43:36.017 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint config: allow {POST,DELETE,GET,OPTIONS,PUT,HEAD} of /config/.* from 0:0:0:0:0:0:0:1/128,127.0.0.1/32,192.168.0.104/32,fe80:0:0:0:76de:2bff:fe77:5edd/128:  enabled
+10:43:36.017 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint reasoner_read: allow {GET} of /reasoner/.*:  enabled
+10:43:36.017 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint reasoner_update: deny {POST,DELETE,PUT} of /reasoner/.*:  enabled
+10:43:36.017 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint security_public: allow {GET} of /security/public/.*:  enabled
+10:43:36.017 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint default_read: allow {GET,OPTIONS,HEAD} of /.*:  enabled
+10:43:36.017 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint solr_remote_update: deny {POST,GET,PUT} of /solr/.*/update:  enabled
+10:43:36.017 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint system: deny {POST,DELETE,GET,PUT} of /system/.*:  enabled
+10:43:36.018 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint groovy: deny {POST,DELETE,GET,PUT} of /groovy/.*:  enabled
+10:43:36.018 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint transaction: deny {POST,DELETE,GET,PUT} of /transaction/.*:  enabled
+10:43:36.018 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint default_write: deny {POST,DELETE,PUT} of /.*:  enabled
+10:43:36.018 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint config: deny {POST,DELETE,GET,OPTIONS,PUT,HEAD} of /config/.*:  enabled
+10:43:36.018 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint security: deny {POST,DELETE,GET,PUT} of /security/.*:  enabled
+10:43:36.018 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint database: deny {POST,DELETE,GET,PUT} of /database/.*:  enabled
+10:43:36.018 INFO  o.a.m.p.s.s.SecurityServiceImpl - -- security constraint solr_remote_admin: deny {POST,DELETE,GET,PUT} of /solr/admin/.*:  enabled
+10:43:36.102 INFO  o.a.m.p.u.f.MarmottaAuthenticationFilter - armotta Authentication Filter starting up; user authentication is enabled
+10:44:06.608 INFO  o.a.m.p.u.s.AccountServiceImpl - creating default system accounts ...

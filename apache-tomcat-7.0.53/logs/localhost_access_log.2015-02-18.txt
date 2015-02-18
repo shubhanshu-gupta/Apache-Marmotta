@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:03 +0530] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/core/admin/about.html HTTP/1.1" 200 11934
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/user/admin/style/style.css HTTP/1.1" 200 1093
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/user/admin/widgets/user.js HTTP/1.1" 200 2353
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/core/public/style/blue/javadoc.css HTTP/1.1" 200 2238
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/core/public/style/blue/style.css HTTP/1.1" 200 6118
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/core/public/img/logo/marmotta-logo.png HTTP/1.1" 200 36723
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/user/me HTTP/1.1" 200 111
+0:0:0:0:0:0:0:1 - - [18/Feb/2015:10:44:07 +0530] "GET /marmotta/core/public/img/icon/marmotta.ico HTTP/1.1" 200 1150

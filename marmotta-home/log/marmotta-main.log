@@ -1,0 +1,226 @@
+10:43:35.165 INFO  o.a.m.p.c.a.c.ConfigurationService - SETUP: Setting up initial Apache Marmotta database configuration ...
+10:43:35.167 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.168 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.168 INFO  o.a.m.p.c.a.c.ConfigurationService - Apache Marmotta Configuration Service: initialisation completed
+10:43:35.170 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.170 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.174 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.175 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.638 INFO  o.a.m.p.c.s.MarmottaResourceFilter - Apache Marmotta Resource Filter 3.3.0 starting up ... 
+10:43:35.680 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.681 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.682 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.683 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.684 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.684 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.686 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.687 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.689 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.689 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.691 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.691 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.694 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.694 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.696 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.697 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.699 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.700 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.703 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.704 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.707 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.708 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.711 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.712 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.716 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.716 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.720 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.721 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.724 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.725 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.728 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.729 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.732 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.733 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.736 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.736 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.740 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.740 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.744 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.745 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.747 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.748 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.751 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.751 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.754 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.755 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.758 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.759 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.761 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.762 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.765 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.765 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.768 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.769 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.772 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.772 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.775 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.776 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.779 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.780 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.782 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.783 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.786 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.787 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.790 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.790 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.795 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.795 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.798 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.799 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.802 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.803 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.806 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.807 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.810 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.811 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.814 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.815 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.818 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.819 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.822 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.823 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.826 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.832 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.836 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.836 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.845 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.846 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.848 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.849 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.852 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.853 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.856 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.856 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.860 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.861 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.864 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.865 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.868 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.868 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.872 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.872 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.876 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.876 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.880 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.880 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.884 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.884 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.888 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.888 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.892 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.893 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.896 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.897 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.901 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.902 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.905 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.906 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.909 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.910 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.914 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.914 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.918 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.918 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.922 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.922 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.930 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.931 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.934 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.935 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.938 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.939 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.942 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.943 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.946 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.946 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.949 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.949 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.952 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.952 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.955 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.956 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.958 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.959 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.966 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.967 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.970 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.971 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.973 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.974 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.976 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.977 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.980 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.980 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.983 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.983 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.987 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.988 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:35.990 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:35.991 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:36.112 INFO  o.a.m.p.v.filter.MementoFilter - init memento filter
+10:43:36.121 WARN  o.a.m.p.c.s.MarmottaPostStartupFilter - Apache Marmotta Core Version 3.3.0 has started up successfully!
+10:43:36.128 INFO  o.a.m.p.c.a.c.ConfigurationService - Tomcat 7.x detected, server port: 8080
+10:43:36.128 WARN  o.a.m.p.c.s.MarmottaPostStartupFilter - You can access the system now at the URL http://ubuntu:8080/marmotta/
+10:44:04.057 INFO  o.a.m.p.c.s.MarmottaStartupService - SETUP: Setting up initial host and resource configuration (http://ip6-localhost:8080/marmotta/) ...
+10:44:04.062 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:04.063 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:04.065 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:04.066 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:04.068 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:04.069 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:04.106 INFO  o.a.m.p.b.kiwi.KiWiStoreProvider - Initializing Backend: KiWi Store
+10:44:04.147 INFO  o.a.m.p.b.kiwi.KiWiStoreProvider -  - enabling native SPARQL support
+10:44:05.254 INFO  o.a.m.p.c.s.s.StatisticsServiceImpl - Apache Marmotta StatisticsService starting up ...
+10:44:05.254 INFO  o.a.m.p.c.s.s.StatisticsServiceImpl - registering statistics module "System Statistics"
+10:44:05.255 INFO  o.a.m.p.c.s.s.StatisticsServiceImpl - registering statistics module "HttpClientService"
+10:44:05.270 INFO  o.a.m.kiwi.caching.GuavaCacheManager - initialising Guava in-memory caching backend ...
+10:44:05.613 INFO  o.a.m.k.g.SnowflakeIDGenerator - SNOWFLAKE: initialised with datacenter ID 987
+10:44:05.613 INFO  o.a.m.k.persistence.KiWiPersistence - database key generation strategy: Twitter Snowflake
+10:44:05.757 INFO  o.a.m.k.persistence.KiWiPersistence - creating new KiWi database ...
+10:44:05.854 INFO  o.a.m.k.persistence.KiWiPersistence - creating new KiWi database ...
+10:44:05.871 INFO  o.a.m.kiwi.sail.KiWiValueFactory - KiWi Value Factory: in-memory registry
+10:44:05.876 INFO  o.a.m.k.persistence.KiWiPersistence - creating new KiWi database ...
+10:44:05.895 INFO  o.a.m.k.r.engine.ReasoningEngine - program configuration changed, reloading ...
+10:44:05.906 INFO  o.a.m.k.r.engine.ReasoningEngine - SKWRL Reasoner 1 starting up ...
+10:44:05.916 INFO  o.a.m.k.persistence.KiWiPersistence - creating new KiWi database ...
+10:44:05.937 INFO  o.a.m.l.services.ldclient.LDClient - Initialising Linked Data Client Service ...
+10:44:05.940 INFO  o.a.m.l.services.ldclient.LDClient - - LDClient Endpoint: HolyGoat
+10:44:05.940 INFO  o.a.m.l.services.ldclient.LDClient - - LDClient Endpoint: KiWi Project
+10:44:05.940 INFO  o.a.m.l.services.ldclient.LDClient - - LDClient Endpoint: Linked Data
+10:44:05.970 INFO  o.a.m.l.services.ldclient.LDClient - - LDClient Provider: NONE
+10:44:05.970 INFO  o.a.m.l.services.ldclient.LDClient - - LDClient Provider: Linked Data
+10:44:05.970 INFO  o.a.m.l.services.ldclient.LDClient - - LDClient Provider: LD Cache
+10:44:05.970 INFO  o.a.m.l.services.ldclient.LDClient - - LDClient Provider: RegexUri
+10:44:05.970 INFO  o.a.m.l.services.ldclient.LDClient - - LDClient Provider: SPARQL
+10:44:06.420 INFO  o.a.m.p.c.s.c.ContentServiceImpl - Content Service starting up ...
+10:44:06.421 INFO  o.a.m.p.c.s.c.ContentServiceImpl - content reader/writer http disabled
+10:44:06.569 INFO  o.a.m.p.c.s.c.ContentServiceImpl - enabled content reader 'FileSystem Content Reader' for pattern (\Q/home/shubhanshu/marmotta/marmotta-home\E/resources|\Qhttp://ip6-localhost:8080/marmotta/\Eresource/|urn:).*
+10:44:06.570 INFO  o.a.m.p.c.s.c.ContentServiceImpl - enabled content writer 'FileSystem Content Writer' for pattern (\Q/home/shubhanshu/marmotta/marmotta-home\E/resources|\Qhttp://ip6-localhost:8080/marmotta/\Eresource/|urn:).*
+10:44:06.571 INFO  o.a.m.p.c.s.user.UserServiceImpl - initialising user service ...
+10:44:06.572 INFO  o.a.m.p.c.s.user.UserServiceImpl - creating user with webId: http://ip6-localhost:8080/marmotta/user/anonymous 
+10:44:06.574 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:06.575 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:06.577 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:06.578 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:06.580 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:06.581 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:06.584 INFO  o.a.m.p.c.s.user.UserServiceImpl - creating user with webId: http://ip6-localhost:8080/marmotta/user/admin 
+10:44:06.596 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:06.597 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:06.600 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:06.600 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:06.603 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:44:06.604 INFO  o.a.m.p.c.a.c.ConfigurationService - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:44:06.606 INFO  o.a.m.p.c.a.c.ConfigurationService - Initialisation completed, enabling configuration events
+10:44:06.897 INFO  o.a.m.p.v.w.VersioningWebService - Versioning Service: enabling Memento support
+10:44:07.248 INFO  o.a.m.p.c.a.c.ConfigurationService - template admin.ftl not found in /home/shubhanshu/marmotta/marmotta-home/templates, copying fallback...

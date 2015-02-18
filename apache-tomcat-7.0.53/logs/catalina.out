@@ -1,0 +1,63 @@
+Feb 18, 2015 10:43:21 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Feb 18, 2015 10:43:22 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Feb 18, 2015 10:43:22 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 18, 2015 10:43:22 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1715 ms
+Feb 18, 2015 10:43:24 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 18, 2015 10:43:24 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.53
+Feb 18, 2015 10:43:24 AM org.apache.marmotta.splash.ProgressListener lifecycleEvent
+INFO: starting host instance
+Feb 18, 2015 10:43:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/shubhanshu/marmotta/apache-tomcat-7.0.53/webapps/manager
+Feb 18, 2015 10:43:25 AM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [144] milliseconds.
+Feb 18, 2015 10:43:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/shubhanshu/marmotta/apache-tomcat-7.0.53/webapps/host-manager
+Feb 18, 2015 10:43:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/shubhanshu/marmotta/apache-tomcat-7.0.53/webapps/docs
+Feb 18, 2015 10:43:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/shubhanshu/marmotta/apache-tomcat-7.0.53/webapps/marmotta
+10:43:31.234 INFO  - WELD-000900: 2.1.2 (Final)
+10:43:31.264 INFO  - JNDI: registering Apache Marmotta JNDI implementation ...
+10:43:31.782 INFO  - JNDI: initialising Apache Marmotta Context Factory ...
+10:43:31.786 INFO  - JNDI: creating Apache Marmotta Initial Context ...
+10:43:31.927 INFO  - WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+10:43:33.907 INFO  - Tomcat 7+ detected, CDI injection will be available in Servlets and Filters. Injection into Listeners is not supported
+10:43:34.331 WARN  - WELD-001700: Interceptor annotation class javax.ejb.PostActivate not found, interception based on it is not enabled
+10:43:34.332 WARN  - WELD-001700: Interceptor annotation class javax.ejb.PrePassivate not found, interception based on it is not enabled
+10:43:34.818 INFO  - Apache Marmotta Core Version 3.3.0 starting up ... 
+10:43:34.818 INFO  - Build Information:
+10:43:34.818 INFO  -  - Build User: Jakob Frank <jakob@apache.org>
+10:43:34.818 INFO  -  - Build Host: T440p
+10:43:34.819 INFO  -  - Build Time: Fri, 05 Dec 2014 15:20:30 CET
+10:43:34.819 INFO  -  - Build OS:   Linux 3.13.0-40-generic/amd64
+10:43:34.819 INFO  -  - Revision:   git:eb5a77
+10:43:34.823 INFO  - Configured working directory /home/shubhanshu/marmotta/marmotta-home from environment variable MARMOTTA_HOME
+10:43:34.824 INFO  - Apache Marmotta Configuration Service starting up ...
+10:43:34.825 INFO  - Apache Marmotta running on Apache Tomcat 7.x
+10:43:34.825 INFO  - creating system configuration in configuration file /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:34.825 INFO  - creating system configuration metadata in configuration file /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:34.868 INFO  - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-config.properties
+10:43:34.869 INFO  - configuration successfully saved to /home/shubhanshu/marmotta/marmotta-home/system-meta.properties
+10:43:34.875 INFO  - Apache Marmotta Logging Service starting up ...
+10:43:35.085 INFO  - - configured logging modules: Caching, CDI/Weld, Configuration, KiWi Backend, KiWi Reasoner, LDCache, LDClient, LDP, LDPath, Linked Data, RestEasy, Security, Sesame, SPARQL, System, User
+10:43:35.091 INFO  - - configured logging appenders: Syslog (LOCAL0), Marmotta Main Log, Marmotta Security Log, Marmotta Debug Log, Marmotta Console
+10:43:35.095 WARN  - LOGGING: Switching to Apache Marmotta logging configuration; further output will be found in /home/shubhanshu/marmotta/marmotta-home/log/*.log
+10:43:36.121 WARN  - Apache Marmotta Core Version 3.3.0 has started up successfully!
+10:43:36.128 WARN  - You can access the system now at the URL http://ubuntu:8080/marmotta/
+Feb 18, 2015 10:43:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/shubhanshu/marmotta/apache-tomcat-7.0.53/webapps/examples
+Feb 18, 2015 10:43:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/shubhanshu/marmotta/apache-tomcat-7.0.53/webapps/ROOT
+Feb 18, 2015 10:43:36 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Feb 18, 2015 10:43:36 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 18, 2015 10:43:57 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 34304 ms
+Created new window in existing browser session.
